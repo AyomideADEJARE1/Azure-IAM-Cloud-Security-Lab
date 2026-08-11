@@ -21,7 +21,7 @@ The evidence shows the groups being created and managed, the user directory, and
 
 #### 02 — Initial Entra ID Groups View
 
-![02 — Initial Entra ID groups view](screenshots/02-entra-groups-initial.png)
+![02 — Initial Entra ID groups view](screenshots/02-entra-groups-initials.png)
 
 #### 03 — Cloud Shell Group-Management Commands
 
