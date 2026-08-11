@@ -17,11 +17,11 @@ The evidence shows the groups being created and managed, the user directory, and
 
 #### 01 — Azure Environment
 
-![01 — Azure environment](screenshots/01-azure-home.png)
+![01 — Azure environment](01-azure-home.png)
 
 #### 02 — Initial Entra ID Groups View
 
-![02 — Initial Entra ID groups view](screenshots/02-entra-groups-initial.png)
+![02 — Initial Entra ID groups view](02-entra-groups-initial.png)
 
 #### 03 — Cloud Shell Group-Management Commands
 
